@@ -13,7 +13,7 @@ import {
 
 // ⚙️ Your Firebase Configuration
 const firebaseConfig = {
-  apiKey:, 
+  apiKey:FIREBASE_API_KEY=your-new-key,
   authDomain: "godemar-s-empire.firebaseapp.com",
   projectId: "godemar-s-empire",
   storageBucket: "godemar-s-empire.firebasestorage.app",
